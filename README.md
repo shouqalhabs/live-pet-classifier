@@ -13,9 +13,8 @@ Live Pet Classifier is an AI project that uses Keras and Teachable Machine to cl
 ---
 
 ## Demo
-Include a screenshot or GIF of your program running here:
 
-![Live Pet Classifier Demo]()
+![Live Pet Classifier Demo](https://github.com/shouqalhabs/live-pet-classifier/blob/main/test_resuilts.png?raw=true)
 
 ---
 
